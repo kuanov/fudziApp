@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SushiShop</string>
+    <string name="sushi_logo">Shusi logo</string>
+    <string-array name="options">
+        <item>Sushi</item>
+        <item>Pizza</item>
+        <item>Our stores</item>
+    </string-array>
+    <string-array name="cities">
+        <item>Aktobe</item>
+        <item>Atyrau</item>
+    </string-array>
+    <string name="select">Select</string>
+    <string name="confirm">Confirm</string>
+    <string name="input">Input</string>
+    <string name="myChoose">You selected:</string>
+    <string name="howMany">How many portions do you want?</string>
+    <string name="addExtra">You can add extra:</string>
+    <string name="blueCheese">Blue cheese</string>
+    <string name="spice">Spicy sauce</string>
+    <string name="cheeseSauce">Cheese sauce</string>
+</resources>
